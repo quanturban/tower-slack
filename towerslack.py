@@ -9,7 +9,7 @@ try:
 except ImportError:
     gevent = None
 
-HOMEPAGE = 'https://github.com/lepture/tower-slack'
+HOMEPAGE = 'https://github.com/quanturban/tower-slack'
 
 TOWER_ICON = (
     'https://tower.im/assets/mobile/icon/'
